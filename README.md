@@ -1,5 +1,6 @@
 Diabetes Prediction Project
-📋 Project Overview
+
+📋Project Overview
 A comprehensive data mining project focused on predicting diabetes risk using medical and laboratory data. This project implements machine learning classification models to identify patients as Non-Diabetic (N), Prediabetic (P), or Diabetic (Y) based on clinical parameters.
 
 🎯 Project Objectives
